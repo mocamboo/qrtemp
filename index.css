@@ -1,0 +1,43 @@
+
+body{
+    
+    background-color: hsl(213, 39%, 95%);
+}
+.main{
+    background-color: hsl(212, 45%, 89%);
+    margin: 100px 40px;
+    padding: 4rem;
+    
+    text-align: center;
+    
+}
+.whiteone{
+    background-color: hsl(0, 0%, 100%);
+    
+    text-align: center;
+    padding: 3px 3px 2px;
+    max-width: 210px;
+    border-radius: 4%;
+    margin: auto;
+}
+.text1{
+    
+    font-size: 15px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 900;
+    padding: 2px 20px;
+}
+.text2{
+    font-weight: lighter;
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(220, 15%, 55%);
+    font-size: 11px;
+    padding: 2px 20px;
+
+}
+.qr{
+    
+    width: 200px;
+    margin-top: 5px;
+    border-radius: 4%;
+}
